@@ -1,8 +1,8 @@
-use competitive_lib::Algorithms::bfs::bfs;
-use competitive_lib::Algorithms::dfs::dfs;
-use competitive_lib::Algorithms::gcd::gcd;
-use competitive_lib::Algorithms::kmp::kmp_pattern_search;
-use competitive_lib::Algorithms::prime_factors::prime_factors;
+use competitive_programming_lib::Algorithms::bfs::bfs;
+use competitive_programming_lib::Algorithms::dfs::dfs;
+use competitive_programming_lib::Algorithms::gcd::gcd;
+use competitive_programming_lib::Algorithms::kmp::kmp_pattern_search;
+use competitive_programming_lib::Algorithms::prime_factors::prime_factors;
 
 #[test]
 fn test_bfs() {

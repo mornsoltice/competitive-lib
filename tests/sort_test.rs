@@ -1,10 +1,10 @@
-use competitive_lib::Sorting::bogo_sort::bogo_sort;
-use competitive_lib::Sorting::bubble_sort::bubble_sort;
-use competitive_lib::Sorting::insertion_sort::insertion_sort;
-use competitive_lib::Sorting::merge_sort::merge_sort;
-use competitive_lib::Sorting::quick_sort::quick_sort;
-use competitive_lib::Sorting::radix_sort::radix_sort;
-use competitive_lib::Sorting::selection_sort::selection_sort;
+use competitive_programming_lib::Sorting::bogo_sort::bogo_sort;
+use competitive_programming_lib::Sorting::bubble_sort::bubble_sort;
+use competitive_programming_lib::Sorting::insertion_sort::insertion_sort;
+use competitive_programming_lib::Sorting::merge_sort::merge_sort;
+use competitive_programming_lib::Sorting::quick_sort::quick_sort;
+use competitive_programming_lib::Sorting::radix_sort::radix_sort;
+use competitive_programming_lib::Sorting::selection_sort::selection_sort;
 
 #[test]
 fn test_bubble_sort() {

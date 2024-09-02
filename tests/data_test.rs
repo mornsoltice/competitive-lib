@@ -1,8 +1,8 @@
-use competitive_lib::DataStructures::binary_heap::MaxHeap;
-use competitive_lib::DataStructures::fenwick_tree::FenwickTree;
-use competitive_lib::DataStructures::linked_list::LinkedList;
-use competitive_lib::DataStructures::trie::Trie;
-use competitive_lib::DataStructures::union_find::UnionFind;
+use competitive_programming_lib::DataStructures::binary_heap::MaxHeap;
+use competitive_programming_lib::DataStructures::fenwick_tree::FenwickTree;
+use competitive_programming_lib::DataStructures::linked_list::LinkedList;
+use competitive_programming_lib::DataStructures::trie::Trie;
+use competitive_programming_lib::DataStructures::union_find::UnionFind;
 
 #[test]
 fn test_fenwick_tree() {
